@@ -1,9 +1,8 @@
-import "./App.css";
 import { IconBase } from "./utils/IconProvider";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <IconBase name="Airplay" size={48} />
       <IconBase name="Alien" size={48} />
       <IconBase name="Anchor" size={48} />
